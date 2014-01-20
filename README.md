@@ -1,4 +1,4 @@
-# Test
+ï»¿# Test
 
 Test repository for trying out git and github features.
 
@@ -10,4 +10,5 @@ Test repository for trying out git and github features.
 
 \# Risuaita
 
-Blah, blah, sössöhoo bcdefghi test cygwin git 2
+Blah, blah, sÃ¶ssÃ¶hoo bcdefghi test cygwin git 2
+utf-8
