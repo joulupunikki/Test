@@ -10,4 +10,4 @@ Test repository for trying out git and github features.
 
 \# Risuaita
 
-Blah, blah, sössöhoo bcdefghi test cygwin git
+Blah, blah, sössöhoo bcdefghi test cygwin git 2
