@@ -12,3 +12,5 @@ Test repository for trying out git and github features.
 
 Blah, blah, sössöhoo bcdefghi test cygwin git 2
 utf-8 a
+
+Commit test
