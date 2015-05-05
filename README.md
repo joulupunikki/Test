@@ -16,3 +16,5 @@ utf-8 a
 Commit test
 
 Release test
+
+Does it work
